@@ -256,31 +256,79 @@ MY TAKEAWAYS:
 
 ### Costs
 
-#### Editing (1560)
+TODO
+* publishdrive, website, skip costs
+*** shut down publishdrive
+* [blocked] get TDR onto bookshop.org manually
+
+#### Website
+
+* Skip 
+1000 10/14
+438 10/15
+2000 10/6
+
+
+* Site
+3.00 site test
+
+* other
+Publishdrive 167.88 12/7
+laptop 1185 (divide by 2)
+
+(advertising = site+publishdrive = 3441 + 168)
+
+#### Editing (6150)
 
 * 450 - Mar 22 invoice
 
 * 420 - May 28 invoice
 
-* 690 - June 25 invoice
+* 690 - June 25 invoice (sum 1760)
 
-* more invoices
+* 900 - Jul 21
+* 300 - Jul 28 (s 2960)
+* 900 - Aug 11 (s 3860)
+* 1250 - Sept 15 (5160)
+* 990 - Oct 17+20 (6150)
+SUM: 6150
 
-#### Copyrights (300)
+#### Copyrights (630)
 
-* AP for two riot police pics: $300 total, paid 7.5.25
-
-* review copyrights - should be more, added for ODOC
+* AP $600 see email September 11, 2025
+* $30 for cover design (checking 7/21)
 
 #### Other costs
 
-* canva costs
+* canva costs - $60
 
-* amazon proof costs
+* amazon proof costs - $683
+  * 44.40 dec 28
+  * 44.40 dec 8
+  * 44.40 nov 15
+  * 85.60 oct 30
+  * 44.40 oct 29
+  * 36.98 oct 15
+  * 6.94 oct 4
+  * 7.52 oct 4
+  * 7.62 Oct 4
+  * 85.60 oct 4
+  * 113.29 oct 3
+  * 44 oct 1
+  * 44.40 oct 1
+  * 7.36 sept 25
+  * 7.42 sept 25
+  * 7.42 sept 3
+  * 7.36 sept 1
+  * 7.42 sept 1
+  * 7.44 sept 1
+  * 7.31 aug 24
+  * 7.24 aug 24
+  * 7.02 aug 15
+  * 7.08 aug 15
 
-* skip / website costs
-
-### Reader support
+(see below)
+### Reader support - $32
 
 * 16.26 - 2x part 1 printouts (Naj, Chris) on 7.5.25
 
